@@ -42,12 +42,12 @@ Everyone having an address on the network can take part in the generation proces
 .. toctree::
    :maxdepth: 2
    
-
+    userguide
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-#* :ref:`modindex`
+* :ref:`modindex`
 * :ref:`search`
