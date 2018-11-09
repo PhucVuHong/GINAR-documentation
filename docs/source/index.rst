@@ -16,9 +16,23 @@ GINAR’s mission is to become the leader in providing Decentralized Random Numb
 eliminating potential fraud and dishonest practices. In turn, it will make the industry into more of a win-win proposition for both players and operators – 
 as well as regulating authorities – by allowing complete transparency.
 
+WHY GINAR
+=========
+Unpredictability
+^^^^^^^^^^^^^^^^
+
+GINAR requires the contribution of participants on a decentralized network. With the assumption that more than half of the network is honest, 
+no one can get control over who will eligible to make the contribution.
+
+Verifiability
+^^^^^^^^^^^^^
+
+Verifiability is required to ensure that the generation process has not been circumvented. Traditional RNGs can only prove that it uses a random method 
+but are not able to provide any technique to audit after it is generated.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
 
 
 
