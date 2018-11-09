@@ -1,5 +1,5 @@
-INSTALL
-=======
+USERGUIDE
+=========
 
 A user guide or user's guide, also commonly known as a manual, is a technical communication document intended to give assistance to people 
 using a particular system.[1] It is usually written by a technical writer, although user guides are written by programmers, product or project managers, 
