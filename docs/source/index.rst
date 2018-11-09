@@ -30,6 +30,15 @@ Verifiability
 Verifiability is required to ensure that the generation process has not been circumvented. Traditional RNGs can only prove that it uses a random method 
 but are not able to provide any technique to audit after it is generated.
 
+Tamper-resistance
+^^^^^^^^^^^^^^^^^
+GINAR produces random numbers from the contribution of participants on the blockchain. Manipulation is not feasible on the blockchain networks since 
+it is made up to millions of participants scattered across the world.
+
+Open participation
+^^^^^^^^^^^^^^^^^^
+Everyone having an address on the network can take part in the generation process and there is no restriction for doing so.
+
 .. toctree::
    :maxdepth: 2
    
