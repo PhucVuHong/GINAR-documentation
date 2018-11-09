@@ -39,13 +39,12 @@ Open participation
 ^^^^^^^^^^^^^^^^^^
 Everyone having an address on the network can take part in the generation process and there is no restriction for doing so.
 
-Guide
-^^^^^
 
 .. toctree::
    :maxdepth: 2
    
     userguide
+    contact
 
 
 Indices and tables

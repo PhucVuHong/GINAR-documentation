@@ -1,0 +1,6 @@
+CONTACT
+=======
+
+PIONEERS IN PROVIDING
+DECENTRALIZED RANDOM NUMBERS
+True, Fair, Secure, and Transparent
