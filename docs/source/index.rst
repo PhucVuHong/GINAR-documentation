@@ -40,7 +40,7 @@ Open participation
 Everyone having an address on the network can take part in the generation process and there is no restriction for doing so.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
     userguide
 
