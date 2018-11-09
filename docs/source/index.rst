@@ -15,6 +15,7 @@ tamper-resistant and verifiable digits; especially for lottery and online gambli
 GINAR’s mission is to become the leader in providing Decentralized Random Numbers and change the online gambling industry by 
 eliminating potential fraud and dishonest practices. In turn, it will make the industry into more of a win-win proposition for both players and operators – 
 as well as regulating authorities – by allowing complete transparency.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
